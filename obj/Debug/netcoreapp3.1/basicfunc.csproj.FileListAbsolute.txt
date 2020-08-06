@@ -1,0 +1,13 @@
+C:\Users\mdcli\Documents\Coding_Dojo\C#\basicfunc\bin\Debug\netcoreapp3.1\basicfunc.exe
+C:\Users\mdcli\Documents\Coding_Dojo\C#\basicfunc\bin\Debug\netcoreapp3.1\basicfunc.deps.json
+C:\Users\mdcli\Documents\Coding_Dojo\C#\basicfunc\bin\Debug\netcoreapp3.1\basicfunc.runtimeconfig.json
+C:\Users\mdcli\Documents\Coding_Dojo\C#\basicfunc\bin\Debug\netcoreapp3.1\basicfunc.runtimeconfig.dev.json
+C:\Users\mdcli\Documents\Coding_Dojo\C#\basicfunc\bin\Debug\netcoreapp3.1\basicfunc.dll
+C:\Users\mdcli\Documents\Coding_Dojo\C#\basicfunc\bin\Debug\netcoreapp3.1\basicfunc.pdb
+C:\Users\mdcli\Documents\Coding_Dojo\C#\basicfunc\obj\Debug\netcoreapp3.1\basicfunc.csprojAssemblyReference.cache
+C:\Users\mdcli\Documents\Coding_Dojo\C#\basicfunc\obj\Debug\netcoreapp3.1\basicfunc.AssemblyInfoInputs.cache
+C:\Users\mdcli\Documents\Coding_Dojo\C#\basicfunc\obj\Debug\netcoreapp3.1\basicfunc.AssemblyInfo.cs
+C:\Users\mdcli\Documents\Coding_Dojo\C#\basicfunc\obj\Debug\netcoreapp3.1\basicfunc.csproj.CoreCompileInputs.cache
+C:\Users\mdcli\Documents\Coding_Dojo\C#\basicfunc\obj\Debug\netcoreapp3.1\basicfunc.dll
+C:\Users\mdcli\Documents\Coding_Dojo\C#\basicfunc\obj\Debug\netcoreapp3.1\basicfunc.pdb
+C:\Users\mdcli\Documents\Coding_Dojo\C#\basicfunc\obj\Debug\netcoreapp3.1\basicfunc.genruntimeconfig.cache
